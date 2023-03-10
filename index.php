@@ -1,5 +1,4 @@
 <?php
-
 $config = include_once 'config.php';
 if(empty($config))
 {
